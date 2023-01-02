@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a technology enthusiast helping small businesses with their IT needs.
+
 <!--
 **NiceGuyIT/NiceGuyIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
